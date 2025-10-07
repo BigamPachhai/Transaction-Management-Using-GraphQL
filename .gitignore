@@ -1,2 +1,4 @@
 node_modules
 .env
+COPY-PASTE.md
+NOTES.md
